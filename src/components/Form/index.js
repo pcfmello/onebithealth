@@ -1,5 +1,4 @@
 import React, { useState } from "react"
-import { Text, TextInput, View, Button } from 'react-native'
 import * as S from './styles'
 import { ResultImc } from '@components'
 
